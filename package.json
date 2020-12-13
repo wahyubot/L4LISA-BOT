@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A187ID/AR15BOT.git"
+    "url": "git+https://github.com/wahyubot/L4LISA-BOT.git"
   },
   "keywords": [
     "k"
@@ -31,7 +31,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/A187ID/AR15BOT/issues"
+    "url": "https://github.com/wahyubot/L4LISA-BOT/issues"
   },
-  "homepage": "https://github.com/A187ID/AR15BOT/readme"
+  "homepage": "https://github.com/wahyubot/L4LISA-BOT/readme"
 }
